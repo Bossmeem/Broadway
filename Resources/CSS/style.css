@@ -9,7 +9,11 @@ h1 {
   font-weight: bold;
 }
 
-nav {
+#Header a {
   color: white
   font-size: 18px;
+}
+
+nav {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
