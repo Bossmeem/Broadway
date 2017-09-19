@@ -46,6 +46,6 @@ nav {
   background-color: dimgray;
 }
 
-a link {
+a:link {
   color: white;
 }
